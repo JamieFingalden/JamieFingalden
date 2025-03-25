@@ -1,4 +1,4 @@
-# JamieFingalden 的 GitHub 展示文档
+# Jamie Fingalden
 
 ## 个人简介
 
