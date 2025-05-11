@@ -1,38 +1,47 @@
 # Jamie Fingalden
 
-## Personal Introduction
+## 👋 Personal Introduction
 
-👋🏻 Hi everyone, I'm Jamie Fingalden, an explorer full of passion for software development and artificial intelligence. Currently, I'm working hard to learn software development, big data technology, and AI-related knowledge, aiming to grow and break through in these fields. As a sophomore in software technology, I'm well aware of the importance of learning, constantly swimming in the ocean of knowledge to pursue technical excellence. 🌟
+Hi, I'm Jamie Fingalden, a passionate software technology student with a focus on backend development, big data, and artificial intelligence. I'm currently pursuing a diploma in software engineering and working on multiple real-world projects.
 
-## Tech Stack
+I enjoy solving problems with code, participating in school-industry collaborations, and constantly expanding my skill set. My goal is to grow into a global developer capable of building intelligent, scalable systems. 🌍💻
 
-🔧 **Programming Languages**:
+## 🧰 Tech Stack
+
+🔧 **Programming Languages**  
 ![Java](https://img.shields.io/badge/Java-brightgreen)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 ![Python](https://img.shields.io/badge/Python-blue)
 ![MySQL](https://img.shields.io/badge/MySQL-orange)
 
-🔧 **Frameworks**:
+🔧 **Frameworks**  
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-green)
 ![Vue](https://img.shields.io/badge/Vue-purple)
 ![RuoYi](https://img.shields.io/badge/RuoYi-blue)
 
-🔧 **Other Technologies**: Tools and libraries related to big data technology
+🔧 **Other Technologies**  
+Redis, Git, Big Data Tools (under learning)
 
-## Project Experience
+## 💼 Project Experience
 
-### Completed Projects
+### ✅ CloudSpeak 1.0  
+An online speech evaluation platform I helped build as part of a team project. I participated in module design and backend coding, gaining practical experience in full-stack collaboration.
 
-✅ **CloudSpeak1.0**: An important project I completed, it helped me grasp the basic software development process and skills, and deepen my understanding of team collaboration. I was responsible for designing and coding some modules, applying my knowledge to solve practical problems and accumulate valuable experience. 🚀
+### ✅ Sales, Purchasing and Inventory Management System (School-Enterprise Collaboration)  
+Built using the RuoYi framework, this system supports sales, purchase, and warehouse operations.  
+**Due to confidentiality requirements, the code is not public.**  
+- Designed and implemented backend modules  
+- Handled data access and business logic across service layers  
+- Coordinated with team members for requirements and API standards  
 
-✅ **Sales, Purchasing and Inventory Management System Based on RuoYi**: Developing a sales, purchasing and inventory management system based on the RuoYi framework has further enhanced my understanding of framework usage and system development. This project improved my programming skills and taught me to customize systems according to business needs, laying a solid foundation for my future studies and projects. 💻
+### 🚧 Blog (Ongoing)  
+A personal blog to record technical notes, learning insights, and life moments. The project uses Spring Boot + Vue, and I continue to improve its features and UI.
 
-### Ongoing Projects
+### 🚧 CloudSpeak 2.0 (Upgrading)  
+An enhanced version of CloudSpeak with added AI-based voice evaluation. This project explores integration between AI and software services.
 
-🚧 **blog**: A personal blog project for recording and sharing my learning insights, technical thoughts, and life moments. In this project, I try to use multiple tech stacks, continuously optimizing the blog's functionality and user experience to make it my own little world. 📝 Due to network issues, the blog link parsing was unsuccessful. You can check the validity of the webpage link and try again later. If you don't need to parse this link, you can proceed to the next part.
+## 🎯 Learning Direction and Goals
 
-🚧 **CloudSpeak2.0**: As an upgraded version of the CloudSpeak project, I'm working hard to add more features and optimize the existing architecture. I hope to explore the integration of software development and AI through this project. 🔍
+I'm committed to improving my backend development and big data processing skills. In addition, I'm diving into AI technologies to explore how they can enhance user experiences and automate complex processes.
 
-## Learning Direction and Goals
-
-🎯 In the future, I aim to make greater progress in software development and AI. I'll delve into AI algorithms and models, exploring how to better apply AI technology to software development to enhance software intelligence and user experience. I'll also boost my big data processing capabilities to offer more effective technical solutions for complex problems. 📈
+My ultimate goal is to become a full-stack developer with cross-cultural collaboration capabilities, and work on global products with real-world impact.
