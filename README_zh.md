@@ -1,48 +1,111 @@
 # Jamie Fingalden
 
-## 👋🏻 个人简介
+## 👋 个人简介
 
-大家好，我是 Jamie Fingalden，一名热爱软件开发与人工智能的探索者。目前就读于软件技术专业大二，致力于不断提升自己的编程技能和项目实践经验，专注于后端开发、大数据技术以及人工智能相关方向。
+你好，我是 **Jamie Fingalden**，一名软件技术专业学生，同时也是一名初级全栈开发者。  
+我专注于 **后端开发、大数据与人工智能**，并在真实项目中积累了扎实的 **前端开发经验**。  
 
-我乐于在项目中解决实际问题，积极参与校企合作项目，并努力构建多样化的技术能力。未来希望成长为能够参与全球项目的开发者，打造具有实际影响力的软件系统。🌍💻
+目前，我正在攻读软件工程大专文凭，并在职担任 **全栈开发工程师** —— 前端主要使用 **Vue**，后端则采用 **Flask / Go (Gin)**。  
+
+我热衷于用代码解决问题，积极参与校企合作项目，并不断拓展自己的技术栈。  
+💡 我的长期目标是成长为一名具备全球竞争力的开发者，能够构建 **智能化、可扩展的系统**。🌍💻
+
+---
 
 ## 🧰 技术栈
 
-🔧 **编程语言**  
-![Java](https://img.shields.io/badge/Java-brightgreen)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-![Python](https://img.shields.io/badge/Python-blue)
-![MySQL](https://img.shields.io/badge/MySQL-orange)
+### 🔧 编程语言  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-🔧 **框架/平台**  
-![SpringBoot](https://img.shields.io/badge/SpringBoot-green)
-![Vue](https://img.shields.io/badge/Vue-purple)
-![RuoYi](https://img.shields.io/badge/RuoYi-blue)
+### 🔧 框架与库  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) 
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white) 
+![RuoYi](https://img.shields.io/badge/RuoYi-2E86C1?style=for-the-badge) 
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) 
+![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-🔧 **其他技术**  
-Redis、Git、正在学习大数据相关工具
+### 🔧 其他技术  
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) 
+![Big Data (Hadoop)](https://img.shields.io/badge/Big%20Data-Hadoop-2181C2?style=for-the-badge&logo=apachehadoop&logoColor=white)
+
+> 大数据工具（学习中）
+
+---
 
 ## 💼 项目经历
 
 ### ✅ CloudSpeak 1.0  
-一款在线语音评估平台，我参与了模块设计和后端编码工作，通过该项目了解了完整的开发流程，也提升了与团队成员协作的能力。
+一个在线 **口语测评平台**，作为团队项目开发。  
+- 参与 **模块设计** 和 **后端编码**  
+- 积累了 **全栈协作经验**
 
-### ✅ 基于 RuoYi 框架的销进存管理系统（校企合作项目）  
-本项目为校企合作开发，功能涵盖订单管理、订单池管理、物流管理、客户管理等模块。  
-⚠️ **由于保密要求，该项目源码无法公开。**  
-- 负责后端模块开发和业务逻辑处理  
-- 进行多层架构中的服务调用和数据整合  
-- 与其他成员协同处理接口设计与数据交互
+---
 
-### 🚧 blog（进行中）  
-一个个人博客系统，用于记录学习笔记、技术思考与生活点滴。  
-采用 Spring Boot + Vue 等技术栈开发，持续优化功能与用户体验。  
-🔗 [查看项目](https://github.com/JamieFingalden/blog)
+### ✅ 进销存管理系统（校企合作项目）  
+基于 **RuoYi 框架** 开发，支持 **销售、采购、仓储管理**。  
+*(因保密要求，代码未公开)*  
+- 设计并实现 **后端模块**  
+- 负责 **数据访问层与业务逻辑层**  
+- 与团队成员协作制定 **需求与 API 标准**
 
-### 🚧 CloudSpeak 2.0（升级中）  
-CloudSpeak 项目的迭代版本，计划加入 AI 驱动的语音分析功能，探索软件开发与人工智能的结合。
+---
+
+### 🚧 PocketFlow（进行中 – 毕业设计）  
+一款个人 **记账应用**，采用 **Go (Gin 后端) + AI 集成**。  
+- 利用 **OCR + AI 分类** 自动识别并整理账单截图  
+- 首个 **脱离 Spring Boot 的个人项目**  
+- 面向 **可扩展性与真实场景应用** 设计
+
+---
+
+### 🚧 工作项目（全栈开发）  
+- 使用 **Vue** 构建前端功能与 UI 组件  
+- 基于 **Flask** 开发后端服务（API 设计、CRUD、数据处理）  
+- 实际参与 **docx.js、xlsx.js** 与 **数据密集型业务流程** 的集成
+
+---
+
+### 🚧 个人博客（进行中）  
+基于 **Spring Boot + Vue** 的博客平台，用于记录 **技术笔记与生活感悟**。  
+- 持续优化 **UI/UX** 与 **后端扩展性**
+
+---
+
+## 📊 GitHub 数据与活跃度
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JamieFingalden&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamieFingalden&layout=compact&theme=radical" alt="Top Languages" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=JamieFingalden&theme=radical" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 👀 个人主页访问量
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JamieFingalden&style=for-the-badge&color=blue" alt="Profile Views"/>
+</p>
+
+---
 
 ## 🎯 学习方向与目标
 
-我目前专注于提升后端开发与大数据处理能力，同时深入学习人工智能相关知识与算法模型。  
-未来希望将 AI 应用于软件开发实践中，打造更加智能化、自动化的系统，并具备跨文化协作能力，参与全球项目的开发。📈
+- 提升 **全栈开发能力**（Vue 前端 + Flask/Gin 后端）  
+- 深入学习 **AI 应用开发** 与 **大数据处理**  
+- 从 **学术型项目** 过渡到 **生产级系统**  
+- 培养 **跨文化协作能力**，能够参与 **全球化软件产品** 开发  
+
+💡 **终极目标：** 成为一名能够交付 **有影响力、智能化、可扩展软件** 的全栈开发者 🌍💻
+
+---
