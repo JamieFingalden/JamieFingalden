@@ -82,9 +82,9 @@ A blog platform built with Spring Boot + Vue for documenting technical notes and
 Continually improving UI/UX and backend scalability
 
 📊 GitHub Stats & Activity
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" height="165"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub Streak"/> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=JamieFingalden&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamieFingalden&layout=compact&theme=radical" alt="Top Languages" height="165"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com/?user=JamieFingalden&theme=radical" alt="GitHub Streak"/> </p>
 👀 Profile Views
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blue" alt="Profile Views"/> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=JamieFingalden&style=for-the-badge&color=blue" alt="Profile Views"/> </p>
 🎯 Learning Direction and Goals
 
 Strengthen skills in full-stack development, with Vue on the frontend and Flask/Gin on the backend
