@@ -1,84 +1,54 @@
 # Jamie Fingalden
 
-## 👋 Personal Introduction
+## 👋 Personal Introduction | 个人简介
 
-Hi, I'm **Jamie Fingalden**, a passionate software technology student and junior full-stack developer.  
-I focus on **backend development, big data, and AI**, while also gaining solid **frontend experience** through real-world projects.
+Hi, I'm **Jamie Fingalden**, a software engineering diploma student and junior full-stack developer.  
+你好，我是 **Jamie Fingalden**，一名软件工程专科生，同时也是一名初级全栈开发者。  
 
-Currently, I’m pursuing a diploma in software engineering and working as a **full-stack developer** — with **Vue** on the frontend and **Flask / Go (Gin)** on the backend.
+I focus on **backend development, big data, and AI**, while also gaining solid **frontend experience** through real-world projects.  
+我专注于 **后端开发、大数据与人工智能**，并在实际项目中积累了丰富的 **前端经验**。  
 
-I enjoy solving problems with code, participating in school-industry collaborations, and constantly expanding my skill set.  
-💡 My long-term goal is to grow into a **global developer** capable of building **intelligent, scalable systems**. 🌍💻
+Currently, I work as a **full-stack developer** — with **Vue** on the frontend and **Spring Boot / Flask / Go (Gin)** on the backend.  
+目前，我担任 **全栈开发工程师** —— 前端主要使用 **Vue**，后端则基于 **Spring Boot / Flask / Go (Gin)**。  
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Tech Stack | 技术栈
 
-### 🔧 Programming Languages  
+### 🔧 Programming Languages | 编程语言  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🔧 Frameworks & Libraries  
+### 🔧 Frameworks & Libraries | 框架与库  
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) 
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white) 
 ![RuoYi](https://img.shields.io/badge/RuoYi-2E86C1?style=for-the-badge) 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) 
 ![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-### 🔧 Other Technologies  
+### 🔧 Other Tools | 其他技术  
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) 
 ![Big Data (Hadoop)](https://img.shields.io/badge/Big%20Data-Hadoop-2181C2?style=for-the-badge&logo=apachehadoop&logoColor=white)
 
-> Big Data Tools (learning)
+---
+
+## 💼 Project Experience | 项目经历
+
+- **CloudSpeak 1.0** – Online speech evaluation platform | 在线口语测评平台  
+- **Sales, Purchasing & Inventory System** – Built with RuoYi, supporting enterprise workflows | 基于 RuoYi 的进销存管理系统  
+- **PocketFlow (Graduation Project)** – Personal finance app with OCR + AI auto bookkeeping | 毕业设计：OCR + AI 智能记账应用  
+- **Work Projects** – Vue frontend + Spring Boot / Flask backend, docx.js & xlsx.js integration | 工作项目：Vue 前端 + Spring Boot/Flask 后端，集成数据处理  
+- **Personal Blog** – Spring Boot + Vue, documenting tech & insights | 个人博客：技术笔记与生活分享  
 
 ---
 
-## 💼 Project Experience
-
-### ✅ CloudSpeak 1.0  
-An online **speech evaluation platform** built as part of a team project.  
-- Participated in **module design** and **backend coding**  
-- Gained practical experience in **full-stack collaboration**
-
----
-
-### ✅ Sales, Purchasing and Inventory Management System (School-Enterprise Collaboration)  
-Built using the **RuoYi framework**, supporting **sales, purchase, and warehouse operations**.  
-*(Due to confidentiality requirements, the code is not public)*  
-- Designed and implemented **backend modules**  
-- Handled **data access** and **business logic** across service layers  
-- Coordinated with teammates on **requirements** and **API standards**
-
----
-
-### 🚧 PocketFlow (Ongoing – Graduation Project)  
-A personal **finance app** with **Go (Gin backend) + AI integration**.  
-- Uses **OCR + AI classification** to automatically recognize and categorize bill screenshots  
-- First **individual project** outside the Spring Boot ecosystem  
-- Designed for **scalability and real-world usage**
-
----
-
-### 🚧 Work Projects (Full-Stack Developer Role)  
-- Built **frontend features** and **UI components** with Vue  
-- Developed **backend services** with Flask (API design, CRUD operations, data handling)  
-- Hands-on experience with **docx.js**, **xlsx.js**, and **data-heavy workflow integration**
-
----
-
-### 🚧 Personal Blog (Ongoing)  
-A blog platform built with **Spring Boot + Vue** for documenting **technical notes and life insights**.  
-- Continually improving **UI/UX** and **backend scalability**
-
----
-
-## 📊 GitHub Stats & Activity
+## 📊 GitHub Stats & Activity | GitHub 数据与活跃度
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JamieFingalden&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
@@ -91,21 +61,20 @@ A blog platform built with **Spring Boot + Vue** for documenting **technical not
 
 ---
 
-## 👀 Profile Views
+## 🎯 Goals | 学习方向与目标
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JamieFingalden&style=for-the-badge&color=blue" alt="Profile Views"/>
-</p>
+- Strengthen **full-stack development** (Vue frontend + Spring Boot / Flask / Gin backend)  
+  提升 **全栈开发能力**（Vue 前端 + Spring Boot / Flask / Gin 后端）  
 
----
+- Deepen knowledge of **AI-powered applications** and **big data processing**  
+  深入学习 **AI 应用开发** 与 **大数据处理**  
 
-## 🎯 Learning Direction and Goals
-
-- Strengthen skills in **full-stack development** (Vue frontend + Flask/Gin backend)  
-- Deepen understanding of **AI-powered applications** and **big data processing**  
 - Transition from **academic projects** to **production-level systems**  
-- Build **cross-cultural collaboration skills** to contribute to **global software products**
+  从 **学术型项目** 过渡到 **生产级系统**  
 
-💡 **Ultimate Goal:** Become a **full-stack developer** capable of delivering **impactful, intelligent, and scalable software worldwide**.
+- Build **cross-cultural collaboration skills** for **global products**  
+  培养 **跨文化协作能力**，参与 **全球化软件产品** 开发  
 
----
+💡 **Ultimate Goal / 终极目标：**  
+To become a full-stack developer capable of delivering **impactful, intelligent, and scalable software worldwide** 🌍💻  
+成为能够交付 **有影响力、智能化、可扩展软件** 的全栈开发者 🌍💻
