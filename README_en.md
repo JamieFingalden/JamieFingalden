@@ -1,111 +1,109 @@
-# Jamie Fingalden
+# Hi, I'm Jamie Fingalden 👋
 
-## 👋 Personal Introduction
+**Full-stack developer · Native macOS apps · Practical AI & developer tools**
 
-Hi, I'm **Jamie Fingalden**, a software engineering diploma student and junior full-stack developer.  
-I focus on **backend development, big data, and AI**, while also gaining solid **frontend experience** through real-world projects.  
+I've graduated and enjoy turning problems from everyday work and life into useful software. My projects range from business systems and intelligent bill processing to Git workflows, screen capture, RSS reading, and printer drivers. I care about whether a tool does its job well in a real setting.
 
-Currently, I’m pursuing a **software engineering diploma** and working as a **full-stack developer** — with **Vue** on the frontend and **Spring Boot / Flask / Go (Gin)** on the backend.  
+[English](https://github.com/JamieFingalden/JamieFingalden/blob/main/README_en.md) · [中文](https://github.com/JamieFingalden/JamieFingalden/blob/main/README_zh.md) · [Public repositories](https://github.com/JamieFingalden?tab=repositories)
 
-I enjoy solving problems with code, participating in school-industry collaborations, and constantly expanding my skill set.  
-💡 My long-term goal is to grow into a global developer capable of building **intelligent and scalable systems**. 🌍💻
+## Recent focus
 
----
+My recent public projects focus on **native macOS experiences and everyday productivity**, and are built primarily through **vibe coding (AI-assisted development)**. I use AI to help implement them while focusing on requirements, feature choices, user experience, and checking the results. The goal is to make development, reading, capturing information, and taking breaks a little easier.
 
-## 🧰 Tech Stack
+I also have experience with full-stack business systems and AI applications, working across requirements, interfaces, backend services, and delivery.
 
-### 🔧 Programming Languages  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+## Recent public projects
 
-### 🔧 Frameworks & Libraries  
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) 
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white) 
-![RuoYi](https://img.shields.io/badge/RuoYi-2E86C1?style=for-the-badge) 
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) 
-![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+### 🌳 [Grove](https://github.com/JamieFingalden/Grove) — Git worktrees at the center of the workflow
 
-### 🔧 Other Tools  
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) 
-![Big Data (Hadoop)](https://img.shields.io/badge/Big%20Data-Hadoop-2181C2?style=for-the-badge&logo=apachehadoop&logoColor=white)
+A native macOS Git client that brings worktrees, local changes, GitHub pull requests, and GitLab merge requests together. When a review arrives mid-feature, check it out in a separate worktree, handle it, and return to your original work.
 
-> Big Data Tools (learning)
+- Worktree management, diffs, line-level staging, commits, and pushes.
+- Code review requests, rebase workflows, and conflict resolution.
+- Optional AI assistance through Codex CLI or a compatible API.
 
----
+**Swift · SwiftUI · Git · GitHub / GitLab CLI** · [Download](https://github.com/JamieFingalden/Grove/releases/latest)
 
-## 💼 Project Experience
+### ✂️ [LightSnap / 轻截](https://github.com/JamieFingalden/LightSnap) — Screenshots and presentation recordings
 
-### ✅ CloudSpeak 1.0  
-An online **speech evaluation platform** built as part of a team project.  
-- Participated in **module design** and **backend development**  
-- Gained hands-on **full-stack collaboration experience**
+A native macOS capture tool for Apple Silicon. Annotate, copy, or pin screenshots to the desktop; record a screen, window, or region, then adjust its presentation and export it.
 
----
+- Smart selection, scrolling screenshots, annotations, and zoomable pinned images.
+- System audio, microphone, and camera recording with pause and resume.
+- Recording previews with cursor and click effects, backgrounds, canvas settings, and MP4 / GIF export.
 
-### ✅ Sales, Purchasing & Inventory Management System (School-Enterprise Collaboration)  
-Built with the **RuoYi framework**, supporting **sales, procurement, and warehouse operations**.  
-*(Code not public due to confidentiality)*  
-- Designed and implemented **backend modules**  
-- Handled **data access and business logic layers**  
-- Coordinated with teammates on **requirements and API standards**
+**Swift · AppKit · ScreenCaptureKit · System graphics frameworks** · [Preview downloads](https://github.com/JamieFingalden/LightSnap/releases)
 
----
+### 💧 [Restly](https://github.com/JamieFingalden/Restly) — Focus, hydrate, and take a break
 
-### 🚧 PocketFlow (Ongoing – Graduation Project)  
-A personal **finance management app** built with **Go (Gin backend) + AI integration**.  
-- Uses **OCR + AI classification** to automatically recognize and categorize bill screenshots  
-- My **first personal project outside the Spring Boot ecosystem**  
-- Designed for **scalability and real-world usage**
+A lightweight macOS menu bar app with water, eye-rest, and stand-up reminders, plus a pomodoro timer. It uses system states such as screen locking and sleep to handle absence and return.
 
----
+- Floating water and stand reminders, with a full-screen eye-rest countdown.
+- Configurable focus and break cycles, pause controls, and state restoration.
+- No account required; settings stay local.
 
-### 🚧 Work Projects (Full-Stack Development)  
-- Built **frontend features and UI components** with Vue  
-- Developed backend services using **Spring Boot / Flask** (API design, CRUD, data handling)  
-- Worked on integration with **docx.js, xlsx.js**, and **data-heavy workflows**
+**Swift · Native macOS frameworks** · [Download](https://github.com/JamieFingalden/Restly/releases/latest)
 
----
+### 📰 [Shixun / 拾讯](https://github.com/JamieFingalden/Shixun) — A quiet RSS reader
 
-### 🚧 Personal Blog (Ongoing)  
-A blog platform built with **Spring Boot + Vue** to document **technical notes and personal insights**.  
-- Continuously improving **UI/UX** and **backend scalability**
+A native three-column macOS reader for feeds, articles, and content. It supports RSS / Atom, search, bookmarks, and offline caching. Reading preferences stay on the device and help prioritize articles while keeping all content accessible.
 
----
+**Swift · SwiftUI · WebKit · Local storage**
 
-## 📊 GitHub Stats & Activity
+### 🖨️ [Apeos 2350 macOS community printer driver](https://github.com/JamieFingalden/apeos2350-macos-driver)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JamieFingalden&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamieFingalden&layout=compact&theme=radical" alt="Top Languages" height="165"/>
-</p>
+Apple Silicon printing support for the FUJIFILM Apeos 2350 NDA. It combines macOS PDF rendering and CUPS to produce HBPL2 / JBIG data and send it to the printer over the network.
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=JamieFingalden&theme=radical" alt="GitHub Streak"/>
-</p>
+**A4 simplex, long-edge duplex, and front/back orientation have been verified on real hardware.** The repository includes protocol analysis, implementation notes, and validation records. This is a community driver; see its documentation for the supported scope.
 
----
+**C · CUPS · HBPL2 / JBIG · Network printing** · [Installation](https://github.com/JamieFingalden/apeos2350-macos-driver#下载与安装)
 
-## 👀 Profile Views
+## Graduation project and earlier work
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JamieFingalden&style=for-the-badge&color=blue" alt="Profile Views"/>
-</p>
+These repositories document my full-stack and AI application work at earlier stages.
 
----
+### 🧾 [AstraFlow](https://github.com/JamieFingalden/AstraFlow) — My graduation project: intelligent reimbursement and bill management
 
-## 🎯 Learning Direction and Goals
+**AstraFlow is my graduation project**, built for business and personal finance scenarios. It explores how receipt uploads, OCR and AI extraction, bill confirmation, financial review, and reporting fit into a complete business workflow.
 
-- Strengthen **full-stack development skills** (Vue frontend + Spring Boot / Flask / Gin backend)  
-- Deepen understanding of **AI-powered applications** and **big data processing**  
-- Transition from **academic projects** to **production-level systems**  
-- Build **cross-cultural collaboration skills** to contribute to **global software products**  
+Built with **Vue 3, Go / Gin, and Python**, using **RabbitMQ** for asynchronous recognition tasks and **MySQL** with charts for business data. The repository preserves application code, API documentation, and design material.
 
-💡 **Ultimate Goal:** To become a full-stack developer capable of delivering **impactful, intelligent, and scalable software worldwide** 🌍💻
+| Project | What it explores |
+| --- | --- |
+| [PocketFlow](https://github.com/JamieFingalden/PocketFlow) | Personal bookkeeping with Vue and Go / Gin: accounts, bills, categories, and OCR integration experiments. |
+| [myblog](https://github.com/JamieFingalden/myblog) | A Spring Boot + Vue blog project covering article management, content presentation, and API collaboration. |
+| [Spring-Template](https://github.com/JamieFingalden/Spring-Template) | A Java / Spring Boot starting point with data access, authentication, and common backend dependencies. |
+| [Online_course_script](https://github.com/JamieFingalden/Online_course_script) | Early Python / Selenium browser automation work, including script interaction and packaging. |
 
----
+## Non-public project experience
+
+I have also worked on projects that remain private. At a high level, these cover:
+
+- **Engineering drawing review and optimization:** organizing projects and disciplines, review results, and optimization suggestions.
+- **Drawing quality validation tools:** managing test drawings and run records, comparing results across versions, and supporting iteration and acceptance checks.
+- **Inventory and logistics systems:** business features and team collaboration around sales, purchasing, warehousing, and logistics management.
+- **Drone-related management platforms:** full-stack development for drone business management.
+- **Online speech evaluation:** a team project for language learning and speaking assessment.
+- **Weather and outfit advice prototype:** exploring how to help commuters choose clothing based on the weather.
+
+These experiences shaped my attention to clear requirements, frontend/backend collaboration, and delivering features for real use.
+
+## Technologies used in my projects
+
+| Area | Technologies |
+| --- | --- |
+| Native apps | Swift, SwiftUI, AppKit, ScreenCaptureKit, WebKit |
+| Frontend | Vue, JavaScript / TypeScript, Vite |
+| Backend | Java / Spring Boot, Go / Gin, Python / Flask |
+| Data and tasks | MySQL, Redis, RabbitMQ, OCR and LLM application integration |
+| Development tools | Git / worktrees, Docker, GitHub Actions, uv, npm |
+| Systems work | C, CUPS, printing protocols, hardware adaptation |
+
+## How I build
+
+- **Understand the problem, then write the minimum code.** Reuse existing capabilities, standard libraries, and native platform features.
+- **Fix root causes and check neighboring paths.** Solve shared problems where the logic is shared.
+- **Keep implementations simple, readable, and verifiable.** Focus checks on meaningful failure modes.
+- **Treat user experience as an engineering concern.** Window behavior, shortcuts, data persistence, and interruptions all matter.
+
+Questions and ideas are welcome through the issue trackers of my [public projects](https://github.com/JamieFingalden?tab=repositories).
